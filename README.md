@@ -13,4 +13,4 @@ Este projeto implementa um chatbot integrado com a API do **Gemini** (modelo de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/jose-vitorr/chatbot-gemini)
